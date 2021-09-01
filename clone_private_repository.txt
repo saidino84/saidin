@@ -1,1 +1,13 @@
 https://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:x-oauth-basic@github.com/saidino84/spar_admin.git
+
+[como iniciar .git a um project existente ]
+ >> git init .
+   >> git config user.name 'saidino84'
+   >> git config user.password 'saidinokeys[0]'
+
+[vai nu github cria um repositorio e mande este pra la]
+www.github.com/saidino84/reponame.git
+    >>  git remote add origin http://github.com/saidino84/reponame.git
+    
+    
+    https://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:x-oauth-basic@github.com/saidino84/saidin.git
